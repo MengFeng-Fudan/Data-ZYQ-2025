@@ -1,0 +1,1 @@
+The Targeted metabolomics data and Metabolic flux data in the manuscript “Multi-omics insights into the metabolic reprogramming of host cells triggered by Entamoeba histolytica Gal/GalNAc lectin intermediate subunit”
